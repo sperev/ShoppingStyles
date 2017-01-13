@@ -17,7 +17,7 @@
                BlueprintIdentifier = "695BE9A11E291F0700BC576C"
                BuildableName = "App.app"
                BlueprintName = "App"
-               ReferencedContainer = "container:UnitTests.xcodeproj">
+               ReferencedContainer = "container:App.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -31,7 +31,7 @@
                BlueprintIdentifier = "695BE9911E290D2800BC576C"
                BuildableName = "UnitTests.xctest"
                BlueprintName = "UnitTests"
-               ReferencedContainer = "container:UnitTests.xcodeproj">
+               ReferencedContainer = "container:App.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -49,7 +49,7 @@
                BlueprintIdentifier = "695BE9911E290D2800BC576C"
                BuildableName = "UnitTests.xctest"
                BlueprintName = "UnitTests"
-               ReferencedContainer = "container:UnitTests.xcodeproj">
+               ReferencedContainer = "container:App.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -59,7 +59,7 @@
             BlueprintIdentifier = "695BE9A11E291F0700BC576C"
             BuildableName = "App.app"
             BlueprintName = "App"
-            ReferencedContainer = "container:UnitTests.xcodeproj">
+            ReferencedContainer = "container:App.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -82,7 +82,7 @@
             BlueprintIdentifier = "695BE9A11E291F0700BC576C"
             BuildableName = "App.app"
             BlueprintName = "App"
-            ReferencedContainer = "container:UnitTests.xcodeproj">
+            ReferencedContainer = "container:App.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -101,7 +101,7 @@
             BlueprintIdentifier = "695BE9A11E291F0700BC576C"
             BuildableName = "App.app"
             BlueprintName = "App"
-            ReferencedContainer = "container:UnitTests.xcodeproj">
+            ReferencedContainer = "container:App.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

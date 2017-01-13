@@ -1,0 +1,16 @@
+PODS:
+  - ShoppingStyles (0.0.1)
+
+DEPENDENCIES:
+  - ShoppingStyles (from `./`)
+
+EXTERNAL SOURCES:
+  ShoppingStyles:
+    :path: ./
+
+SPEC CHECKSUMS:
+  ShoppingStyles: 7aa14682f016198059f6dfa3e811c67b7d859a2d
+
+PODFILE CHECKSUM: f4b80d0edc337d71208ea9e7d92901b0af24fc62
+
+COCOAPODS: 1.1.1
